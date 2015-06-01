@@ -1,0 +1,11 @@
+{
+  "name": "game-container",
+  "description": "a container that contains things",
+  "version": "0.0.0",
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.4"
+  },
+  "devDependencies": {
+    "closure-compiler" : "http://dl.google.com/closure-compiler/compiler-latest.zip"
+  }
+}
